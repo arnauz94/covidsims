@@ -2,6 +2,15 @@
 {
     border: solid; float:left;
 }
+.ordo
+{
+    height:830px;
+    float: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align-last: right;
+}
 .graph
 {
     border: solid; float:left; width: 800px; height: 820px; overflow-x: scroll;
