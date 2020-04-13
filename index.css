@@ -1,11 +1,14 @@
+.content
+{
+    display: flex;
+}
 .simu
 {
-    border: solid; float:left;
+    border: solid;
 }
 .ordo
 {
     height:830px;
-    float: left;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -13,5 +16,5 @@
 }
 .graph
 {
-    border: solid; float:left; width: 800px; height: 820px; overflow-x: scroll;
+    border: solid; width: 800px; height: 820px; overflow-x: scroll;
 }
