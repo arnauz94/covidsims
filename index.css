@@ -1,0 +1,8 @@
+.simu
+{
+    border: solid; float:left;
+}
+.graph
+{
+    border: solid; float:left; width: 800px; height: 820px; overflow-x: scroll;
+}
